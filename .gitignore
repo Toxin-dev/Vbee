@@ -10,10 +10,10 @@ package-lock.json
 tailwind.config.js
 css/style.input.css
 
-img/product.min.png
-img/team-group.jpg
+# img/product.min.png
+# img/team-group.jpg
 img/team-people.jpg
 img/team-people2.jpg
 img/team-people3.jpg
-img/service2.jpg
-img/service.jpg
+# img/service2.jpg
+# img/service.jpg
